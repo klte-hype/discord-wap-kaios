@@ -1,5 +1,5 @@
 # discord-wap-kaios
-A simple hosted app for @gtrxAC's [Discord WAP client](https://github.com/gtrxAC/discord-wap) on KaiOS devices.
+A simple KaiOS hosted app for @gtrxAC's [Discord WAP client](https://github.com/gtrxAC/discord-wap).
 
 **NOTE:** You will need to have [Wallace Toolbox](https://gitlab.com/suborg/wallace-toolbox) installed in order to install this app.
 
