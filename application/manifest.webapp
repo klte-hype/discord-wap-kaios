@@ -1,12 +1,12 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "Discord WAP",
   "fullscreen": true,
   "description": "Discord WAP for KaiOS",
   "type": "certified",
   "ime_default_softkey_bar": true,
   "cursor": true,
-  "start_url": "https://wap.gtrxac.fi/",
+  "start_url": "http://wap.gtrxac.fi/",
   "developer": {
     "name": "klte_hype",
 	"url":"https://github.com/klte-hype"
@@ -19,6 +19,8 @@
 	}
   },
   "icons": {
-    "192": "/icon.png"
+	"56": "/img/icon_56x56.png"
+	"112": "/img/icon_112x112.png"
+    "192": "/img/icon_hires.png"
   }
 }
