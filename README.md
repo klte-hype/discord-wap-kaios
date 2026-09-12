@@ -5,7 +5,7 @@ A simple KaiOS hosted app for @gtrxAC's [Discord WAP client](https://github.com/
 
 ## Initial setup
 
-1. Download the latest discord-wap-kaios release.
+1. Download the [latest discord-wap-kaios release](https://github.com/klte-hype/discord-wap-kaios/releases/latest/).
 2. Open the ``discord-wap-kaios-vX.X.X.zip`` file on a PC.
 3. Open the manifest.webapp file found inside of the ``application.zip`` file.
 4. Change the ``"start_url"`` field to the URL of your Discord WAP server (default value is ``"start_url": "http://wap.gtrxac.fi/"``).
